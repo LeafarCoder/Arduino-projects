@@ -17,14 +17,14 @@ Currently working on:
       http://www.instructables.com/id/DIY-Time-Control-Machine/
       
       Ordered components:
-        - DC\DC booster
-        - LED 100W
-        - Optical colimator
-        - Accelerometer
+        -> DC\DC booster
+        -> LED 100W
+        -> Optical colimator
+        -> Accelerometer
         
       Update (30/12/2017):
-        - One of the DC\DC booster's capacitor exploded while testing the systyem on a breadboard.
-        - Going to fixe the DC\DC booster (if not possible I'll order another one).
+        -> One of the DC\DC booster's capacitor exploded while testing the systyem on a breadboard.
+        -> Going to fixe the DC\DC booster (if not possible I'll order another one).
 
 Finished:
  (None)

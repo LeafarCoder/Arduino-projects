@@ -17,7 +17,7 @@ Currently working on:
       http://www.instructables.com/id/DIY-Time-Control-Machine/
       
       Ordered components:
-        -> DC\DC booster \n
+        -> DC\DC booster <br>
         -> LED 100W
         -> Optical colimator
         -> Accelerometer

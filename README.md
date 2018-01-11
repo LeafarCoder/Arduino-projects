@@ -27,7 +27,7 @@ Currently working on:
         
       Update (30/12/2017):
       <ul>
-        <li>One of the DC\DC booster's capacitor exploded while testing the systyem on a breadboard.</li>
+        <li>One of the DC\DC booster's capacitor exploded while testing the system on a breadboard.</li>
         <li>Going to fixe the DC\DC booster (if not possible I'll order another one).</li>
       </ul>
 

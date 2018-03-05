@@ -12,8 +12,8 @@ Currently working on:
 
 
 Finished:
- 
-   - knock it Open
+   - Time Control Glove (...)
+   - knock it Open (05/03/2018)
 
 
 Last update: 05/03/2018

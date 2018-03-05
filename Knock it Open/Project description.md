@@ -2,6 +2,7 @@
 
 In this project me and my team (André Miranda, André Vieira, Manuel Madeira and Tiago Rodrigues) built a fake book safe meant to keep any small yet important object one possesses.
 
-To unlock the safe one must knock a specific sequence onto the book surface.
+To unlock the safe one must knock a specific sequence onto the book surface. The knock sequence is easily editable once the safe is open.
+Here we present a book as the prototype but other models can be used making it easy to blend in the house environment.
 
 We submitted this ideia and participated on the 2nd edition of <a href="http://www.tecstorm.pt/index.html">TecStorm</a>, a portuguese 48h technological event much like a hackathon for university student. There was time to code, 3D print, brainstorm, solder and of course have a lot of fun!

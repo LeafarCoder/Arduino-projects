@@ -1,3 +1,15 @@
+/* 
+   Analog Pin 0: Piezo speaker (connected to ground with 1M pulldown resistor)
+   Digital Pin 2: Switch to enter a new code.  Short this to enter programming mode.
+   Digital Pin 8: Direction of step motor
+   Digital Pin 9: Step motor
+   Digital Pin 4: Red LED. 
+   Digital Pin 5: Green LED. 
+   
+   Update: Nov 09 09: Fixed red/green LED error in the comments. Code is unchanged. 
+   Update: Nov 20 09: Updated handling of programming button to make it more intuitive, give better feedback.
+   Update: Jan 20 10: Removed the "pinMode(knockSensor, OUTPUT);" line since it makes no sense and doesn't do anything.
+ */
 
 #include <Servo.h>
 

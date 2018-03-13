@@ -1,3 +1,2 @@
 github gitattributes
-*.rb linguist-language=Java
-*.rb linguist-vendored=Java
+*.ino linguist-language=Java

@@ -1,0 +1,2 @@
+$ cat .gitattributes
+*.ino linguist-language=Arduino

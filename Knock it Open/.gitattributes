@@ -1,2 +1,2 @@
 github gitattributes
-*.ino linguist-language=Java
+*.ino linguist-language=Arduino

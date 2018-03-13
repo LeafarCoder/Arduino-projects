@@ -1,4 +1,4 @@
-/*a 
+/* 
    Analog Pin 0: Piezo speaker (connected to ground with 1M pulldown resistor)
    Digital Pin 2: Switch to enter a new code.  Short this to enter programming mode.
    Digital Pin 8: Direction of step motor
@@ -55,7 +55,7 @@ void setup() {
   // start close
   myServo.write(angle_close);
   
-  Serial.begin(9600);                     // Uncomment the Serial.bla lines for debugging.
+  Serial.begin(9600);
   Serial.println("Program start.");       // but feel free to comment them out after it's working right.
 
   digitalWrite(greenLED, HIGH);      // Green LED on, everything is go.

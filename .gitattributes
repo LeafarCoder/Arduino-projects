@@ -1,2 +1,2 @@
 $ cat .gitattributes
-Knock it Open/Knock_it_Open.ino/*.ino linguist-language=Arduino
+Knock it Open/Knock_it_Open.ino linguist-language=Arduino
